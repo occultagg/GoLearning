@@ -13,3 +13,5 @@ https://go.dev/ref/spec#Constants
 https://learnku.com/go/t/24715
 
 以及：google
+
+这个repo将作为类似我的个人在线笔记本长期维护，主要就是给自己方便查资料复习和更新理解用的而已。
